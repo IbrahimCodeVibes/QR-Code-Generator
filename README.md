@@ -2,7 +2,6 @@
 
 A fast and modern QR Code generator built with plain HTML, CSS, and JavaScript. Instantly turn any text or URL into a functional QR code in one click.
 
-![QR Code Demo](https://i.imgur.com/VXxNXX9.png)
 
 ---
 
