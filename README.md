@@ -20,7 +20,7 @@ A fast and modern QR Code generator built with plain HTML, CSS, and JavaScript. 
 
 - HTML5
 - CSS3 (Flexbox, transitions, responsive design)
-- Vanilla JavaScript (DOM interaction, external API usage)
+- JavaScript (DOM interaction, external API usage)
 - Public API: [GoQR API](https://goqr.me/api/)
 
 ---
