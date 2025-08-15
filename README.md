@@ -38,3 +38,5 @@ This project shows:
  -Integration of third-party APIs in a clean way
  -Solid understanding of JavaScript fundamentals
  -Good user experience with instant feedback
+
+ ## Follow me on IG!
